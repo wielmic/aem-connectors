@@ -1,0 +1,32 @@
+{
+	"name": "AEM Connectors",
+	"version": "1.0.0",
+	"description": "AEM Connectors Implement, Submit, Maintain",
+	"author": "Emily Walpole",
+	"view_type": "mdbook",
+	"meta_keywords": "Experience Cloud, Adobe Experience Manager",
+	"meta_description": "Adobe Experience Manager Connectors Implementation, Submission, Maintenance",
+	"publish_date": "06/11/2018",
+	"show_edit_github_banner": false,
+	"base_path": "<tbd>",
+	"pages": [
+  	    {
+	        "pages": [],
+					"path": "implement.md",
+					"title": "Implementing an AEM Connector",
+					"description": ""
+	    },
+      {
+	        "pages": [],
+					"path": "submit.md",
+					"title": "Submitting an AEM Connector",
+					"description": ""
+	    },
+	    {
+	        "pages": [],
+					"path": "maintain.md",
+					"title": "Maintaining an AEM Connector",
+					"description": ""
+	    }
+	]
+}
