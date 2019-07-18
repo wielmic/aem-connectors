@@ -66,6 +66,6 @@ When writing a connector, consider the following decisions:
 *   Check if the AEM instance uses a proxy before requesting remote URLs, retrieving the HttpClient using org.apache.http.osgi.services.HttpClientBuilderFactory.newBuilder().build();
 
 
-<code>(d<sub>r1</sub>, d<sub>r2</sub>,…d<sub>rk</sub>)</code>
+<code> (d<sub>r1</sub>, d<sub>r2</sub>,…d<sub>rk</sub>) </code>
 
 (d<sub>r1</sub>, d<sub>r2</sub>,…d<sub>rk</sub>)
