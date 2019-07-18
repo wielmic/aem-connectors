@@ -1,10 +1,7 @@
-<a href="example.com" target="_blank">New Tab</a>
-
-
 Implementing an AEM Connector
 =============================
 
-Provided below are useful references for building [AEM Connectors](www.adobe.io/apis/experiencecloud/aem/aemconnectors.html) and should be read in conjunction with guidance on [submitting](submit.md){:target="_blank" rel="noopener"} and [maintaining](maintain.md) connectors.
+Provided below are useful references for building [AEM Connectors](www.adobe.io/apis/experiencecloud/aem/aemconnectors.html) and should be read in conjunction with guidance on [submitting](submit.md) and [maintaining](maintain.md) connectors.
 
 Note that a Developer license for AEM can be obtained through the [Adobe Exchange Program](https://marketing.adobe.com/resources/content/resources/exchange-partner-program.html).
 
@@ -67,3 +64,8 @@ When writing a connector, consider the following decisions:
 *   Which versions of AEM should be supported? Partners may benefit from surveying their customers to determine what AEM versions to build for and maintain. Read more about requirements and best practices for [maintaining a connector](maintain.md) and providing a seamless upgrade path for customers upgrading to newer versions of AEM.
 *   Support localization for connectors that will be used in different regions. Learn about [localizing components](https://docs.adobe.com/docs/en/aem/6-3/develop/components/i18n.html).
 *   Check if the AEM instance uses a proxy before requesting remote URLs, retrieving the HttpClient using org.apache.http.osgi.services.HttpClientBuilderFactory.newBuilder().build();
+
+
+<code>(d<sub>r1</sub>, d<sub>r2</sub>,…d<sub>rk</sub>)</code>
+
+(d<sub>r1</sub>, d<sub>r2</sub>,…d<sub>rk</sub>)
