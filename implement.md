@@ -4,6 +4,7 @@ Implementing an AEM Connector
 <script>
   alert("hello");
 </script>
+<style>p {color:red;}</style>
 
 Provided below are useful references for building [AEM Connectors](www.adobe.io/apis/experiencecloud/aem/aemconnectors.html) and should be read in conjunction with guidance on [submitting](submit.md) and [maintaining](maintain.md) connectors.
 
