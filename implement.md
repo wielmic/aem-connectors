@@ -1,7 +1,7 @@
 Implementing an AEM Connector
 =============================
 
-<script src="test.js" >
+<script src="test.js">
 </script>
 
 Provided below are useful references for building [AEM Connectors](www.adobe.io/apis/experiencecloud/aem/aemconnectors.html) and should be read in conjunction with guidance on [submitting](submit.md) and [maintaining](maintain.md) connectors.
