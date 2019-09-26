@@ -1,0 +1,93 @@
+{
+
+  "name": "Document Cloud SDK",
+
+  "version": ".5",
+
+  "description": "Document Cloud SDK",
+
+  "author": "Ben Rogers",
+
+  "view_type": "mdbook",
+
+  "meta_keywords": "PDF API, PDF SDK, HTML to PDF, Create PDF API, Document Cloud API, Acrobat API, Convert PDF API, PDF Services, Acrobat Cloud API, Embed PDF, PDF Viewing API",
+
+  "meta_description": "Document Cloud Services and View SDK: APIs for using PDF in your own web applications.",
+
+  "publish_date": "09/19/2019",
+
+  "show_edit_github_banner": true,
+
+  "base_path": "https://raw.githubusercontent.com",
+
+  "pages": [{
+
+    "importedFileName": "index",
+
+    "pages": [
+
+        {
+
+          "importedFileName": "This is browser title name. . . ",
+
+          "pages":[ 
+
+          ],
+
+          "path":"AdobeDocs/DCSDKtest/bensbranch/home/index.md",
+
+          "title": "Documentation Home"
+
+        },
+
+        {
+
+          "importedFileName": "This is browser title name. . . ",
+
+          "pages":[ 
+
+          ],
+
+          "path":"AdobeDocs/DCSDKtest/bensbranch/home/servicesSDK/index.md",
+
+          "title": "DC Services SDK"
+
+        },
+
+        {
+
+          "importedFileName": "This is browser title name test ",
+
+          "pages":[ 
+
+          ],
+
+          "path":"AdobeDocs/DCSDKtest/bensbranch/home/viewSDK/index.md",
+
+          "title": "View Services SDK"
+
+        },
+
+        {
+
+          "importedFileName": "This is browser title name. . . ",
+
+          "pages":[ 
+
+          ],
+
+          "path":"https://www.adobe.com",
+
+          "title": "External Link"
+
+        }
+
+    ],
+
+     "path":"www.adobe.com",
+
+     "title":"Top link"
+
+  }]
+
+}
